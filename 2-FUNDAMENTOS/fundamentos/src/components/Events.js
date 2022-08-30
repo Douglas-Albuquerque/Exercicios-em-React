@@ -2,7 +2,7 @@ const Events = () => {
 
   const handleMyEvent = (e) => {
     console.log(e);
-    console.log("Click");
+    console.log("Ativou o evento");
   }
 
   return (
